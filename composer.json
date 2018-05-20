@@ -1,0 +1,14 @@
+{
+    "name": "c1990331/clm",
+    "description": "this is test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "clm",
+            "email": "1182532239@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
